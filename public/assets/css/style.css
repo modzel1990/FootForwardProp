@@ -1336,6 +1336,10 @@ textarea.form-control {
   letter-spacing: 3px;
   transition: 0.4s;
 }
+.pstandard {
+  opacity: 1 !important;
+  color: black !important;
+}
 
 /*background-image: none !important;*/
 [data-parallax="scroll"] .parallax-element img {/*display: block; width: 100%;*//*position: absolute; bottom: 0;*/

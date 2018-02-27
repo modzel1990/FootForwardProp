@@ -19,6 +19,72 @@
         <!--*********************************************************************************************************-->
         <div id="content">
 
+					<!--TEXT with IMAGE BLOCK********************************************************************************-->
+
+					<section class="block" id="investment">
+							<div class="container">
+									<div class="block__wrapper">
+											<div class="row">
+													<div class="col-md-10">
+															<div class="push-down">
+																	<h2 class="text-align-right" data-scroll-reveal="enter left and move 10px">Investment in Doncaster</h2>
+																	<hr class="hrblack">
+																	<div class="pstandard">
+																	<p class="pleft pstandard" data-scroll-reveal="enter left and move 10px after 0.1s">
+																		Growth in the business area in Doncaster for the past two years has been enormous. There are many fast growing high tech companies as the amazing connectivity of the city makes more and more investors choose Doncaster. It's worth mentioning that some of Doncasters' advantages, Robin Hood Airport,  it's high-speed rail network and extremely close proximity to motorways make it a great location. As well as this St Leger Homes set out a series of capital projects funded during 2017/18, bringing investment and improvement across a number of areas of Doncaster.<br><br>
+
+																		The £18.1 million of investment includes a broad range of works:</p>
+																		<ul data-scroll-reveal="enter left and move 10px after 0.1s">
+																		<li>External enhancements, including roof works, fascias and soffits</li>
+
+																		<li>Internal works, including new kitchens, bathrooms and electrical upgrades</li>
+
+																		<li>Environmental improvements, including fencing and car parking schemes</li>
+
+																		<li>Improvements to non-traditional properties</li>
+
+																		<li>Central heating upgrades</li>
+
+																		<li>Rectifying structural issues in older properties</li>
+
+																		<li>Estate improvements to paths and garage sites</li>
+
+																		<li>Improvements to local shops.</li>
+																		</ul>
+																		<p class="pleft pstandard" data-scroll-reveal="enter left and move 10px after 0.1s">
+																			The outcome of those future plans is seen even today by visitors to this beautiful city. There is so much to discover and explore, and even more to experience. Starting from arts and culture events, rich nightlife, huge stadium and world-class theatre, followed by heritage buildings,  lots of great restaurants and pubs, a spa for those looking to relax as well as the UK's number 1 Wildlife Park with the only Polar Bears in England, a new and modern Library &amp; much much more.</p>
+																		<h4 data-scroll-reveal="enter left and move 10px after 0.1s">We are home to:</h4>
+																		<ul data-scroll-reveal="enter left and move 10px after 0.1s">
+																		    <li>The UK’s best-connected location with excellent road, air, sea and rail infrastructure. Just 88 mins from Central London with the UK’s fastest growing international airport outside of London</li>
+																		    <li>One of the Top 10 European cities of the future for foreign direct investment (2014 – FDI Intelligence Magazine)</li>
+																		    <li>Over 10 million sq ft of available, as well as competitively priced development land</li>
+																		    <li>A skilled, loyal and flexible workforce, already home to big names such as Amazon, BT, Thales, Wabtec, Ikea &amp; Next</li>
+																		</ul>
+																		<strong data-scroll-reveal="enter left and move 10px after 0.1s">Source:</strong> <a href="http://wearedoncaster.co.uk" data-scroll-reveal="enter left and move 10px after 0.1s"><span class="now">WeAreDoncaster</span></a>
+																	</div>
+																	<div class="text-align-right">
+																	<a href="#contact" class="btn btn-primary btn-framed">Get in touch</a>
+																</div>
+															</div>
+													</div>
+													<div class="col-md-2">
+															<img class="width-100 shadow rounded-corners" src="assets/img/house3.jpg" alt="">
+													</div>
+											</div>
+											<!--end row-->
+											<div class="background-wrapper">
+													<div class="background background--image opacity-70 background--repeat-repeat height-50">
+															<img src="assets/img/pattern-dot.png" alt="">
+													</div>
+											</div>
+											<!--end background-->
+									</div>
+									<!--end block__wrapper-->
+							</div>
+							<!--end container-->
+					</section>
+					<!--end #text-image-block.block-->
+
             <!--IMAGE BOXES******************************************************************************************-->
 
             <section class="block" id="news">
