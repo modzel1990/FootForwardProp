@@ -60,7 +60,7 @@
                               </div>
                           </div>
                           <div class="col-md-4">
-                              <img class="width-100 shadow rounded-corners" src="/img/about3.jpg" alt="">
+                              <img class="width-100 shadow rounded-corners" src="assets/img/about3.jpg" alt="">
                           </div>
                       </div>
                       <!--end row-->
