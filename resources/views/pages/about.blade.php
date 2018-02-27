@@ -39,7 +39,7 @@
 																		We have forged relationships with our United Kingdom building team associates under very strict contracts for our clients' protection to facilitate this.
 																		In the minefield of real estate, you need a very clear and simple plan in order for it to make perfect sense. We have put this plan together and tested it on more than 100 occasions to make absolutely sure it will work for you under any circumstances.
 																		<br><br>
-																		We have certainly paid our dues in property investing (including over twenty-five years of property investing in the UK. ) Learning by making mistakes on our own investment portfolio in the early years. Then correcting and moving forwards, and ever upwards.
+																		We have certainly paid our dues in property investing (including over twenty-five years of property investing in the UK). Learning by making mistakes on our own investment portfolio in the early years. Then correcting and moving forwards, and ever upwards.
 																		<br><br>
 																		Property and tenants are a fluid business and need constant work. As well as contact between the letting agent and the tenants in order to make a fruitful investment constantly pay off.
 																		We stress this to our clients from day one that it is of major importance to have a really great letting agent on their side. Who when they say they are good at letting multi-let HMO properties, ... they can actually prove that they can look after your investments.
@@ -49,7 +49,7 @@
 																		The promise we make to you is genuinely important for us to uphold, as we like looking after our clients. We like making promises we can keep, and we like delivering on our promises.
 																		It’s what we spring out of bed for in the mornings, ... it’s our why!
 																		<br><br>
-																		This is why we developed from the ground up, our own Lettings agency( who we wholly own. ) Who specifically specialise in Multilet HMO properties that yield high income,
+																		This is why we developed from the ground up, our own Lettings agency (who we wholly own). Who specifically specialise in Multilet HMO properties that yield high income,
 																		.... and it’s what makes us different from all the rest.
 																		....and it’s what makes us better than the rest so that we can promise and deliver.
 																		So that our clients' investments get looked after and remain fruitful. Even when no one is watching.
