@@ -30,7 +30,7 @@
                                   <h2 class="text-align-right" data-scroll-reveal="enter left and move 10px">About us</h2>
 																	<hr class="hrblack">
                                   <p data-scroll-reveal="enter left and move 10px after 0.1s" class="pleft">
-                                    <h3>Our Business!</h3>
+                                    <h3>Our Business</h3>
 																		Foot Forward is about relationship building and understanding what our investors want and therefore ... need.
 																		We understand that you have a busy life and that you have money, but so little time.
 																		<br><br>
