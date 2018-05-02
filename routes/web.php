@@ -30,3 +30,9 @@ Route::get('blog', function () {
 Route::get('contact', function () {
     return view('pages.contact');
 });
+
+Route::get('newsletter', function () {
+    return view('pages.newsletter');
+});
+
+Route::get('/Resources/LESS', 'FootForward\ResourceController@Less');

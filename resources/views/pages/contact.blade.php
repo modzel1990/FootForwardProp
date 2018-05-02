@@ -10,7 +10,8 @@
         <!--************ HERO ***************************************************************************************-->
         <!--*********************************************************************************************************-->
         <header id="hero">
-						@include('partials.nav')
+                        @include('partials.nav')
+                        @include('partials.header')
         </header>
         <!--end hero-->
 
@@ -41,9 +42,9 @@
 															<div class="addressbox">
 																  <h4>Feel free to contact us or pop into the office for a coffee &amp; a chat</h4>
 																	<p class="addresslines">
-																	<i class="fas fa-address-card"></i> Address:<br> <span class="pgrey">Sample address</span>   <br>
-																	<i class="fas fa-phone"></i> Phone:<br> <span class="pgrey">01302 000000</span>			    <br>
-																	<i class="fas fa-envelope"></i> E-mail:<br> <span class="pgrey">example@email.com</span>   <br>
+																	<i class="fas fa-address-card"></i> Address:<br> <span class="pgrey">The Long Barn, Wakefield Road, Hampole, Doncaster, DN6 7EU</span>   <br>
+																	<i class="fas fa-phone"></i> Phone:<br> <span class="pgrey">01302 245204 / 07962 531086</span>			    <br>
+																	<i class="fas fa-envelope"></i> E-mail:<br> <span class="pgrey"><a href="@mailto:steph@footforwardproperties.co.uk">steph@footforwardproperties.co.uk</a></span>   <br>
 																</p>
 															</div>
 													</div>
@@ -74,20 +75,16 @@
                                         </div>
                                     </div>
                                     <div class="person__description">
-                                        <h5>Jane Doe</h5>
+                                        <h5>Steph Arrand</h5>
                                         <figure>
                                             <label>Phone:</label>
-                                            <div>(123) 456 789 000</div>
+                                            <div>01302 245204</div>
                                         </figure>
                                         <figure>
                                             <label>E-mail:</label>
                                             <div>
-                                                <a href="#">john.doe@example.com</a>
+                                                <a href="mailto:steph@footforwardproperties.co.uk">steph@footforwardproperties.co.uk</a>
                                             </div>
-                                        </figure>
-                                        <figure>
-                                            <label>Skype:</label>
-                                            <div>John Doe</div>
                                         </figure>
                                     </div>
                                 </div>

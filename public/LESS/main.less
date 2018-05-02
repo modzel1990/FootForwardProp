@@ -8,7 +8,6 @@ div.containerus {
    background-color: white;
    min-height: 300px;
    display: inline;
-   align: center;
    padding: 0px;
    margin: 0px;
 }
@@ -17,7 +16,6 @@ div.contenttitle {
   background-color: white;
   min-height: 50px;
   display: block;
-  align: center;
   text-align: center;
   padding: 20px;
 }
@@ -28,7 +26,6 @@ div.right-side {
    display: inline;
    float: right;
    text-align: center;
-   align: center;
    padding: 20px;
 }
 div.left-side {
@@ -38,7 +35,6 @@ div.left-side {
    display: inline;
    float: left;
    text-align: center;
-   align: center;
    padding: 20px;
 }
 div.picturebox {
@@ -48,7 +44,6 @@ div.picturebox {
    display: inline;
    float: left;
    text-align: center;
-   align: center;
 }
 div.textbox {
   width: 100%;
@@ -56,7 +51,6 @@ div.textbox {
    display: inline;
    float: right;
    text-align: left;
-   align: center;
    padding: 5px;
 }
 div.middlecontent {
@@ -64,7 +58,6 @@ div.middlecontent {
   background-color: white;
   display: inline;
   text-align: center;
-  align: center;
   padding: 0px;
   position: relative;
 }
@@ -73,7 +66,6 @@ div.sidestrapl {
   background-color: @fitbit;
   display: inline;
   text-align: center;
-  align: center;
   float: left;
   padding: 5px;
   border-radius: 85px 0px 85px 0px;
@@ -84,7 +76,6 @@ div.sidestrapr {
   background-color: @fitbit;
   display: inline;
   text-align: center;
-  align: center;
   float: right;
   padding: 5px;
   border-radius: 0px 85px 0px 85px;
@@ -95,7 +86,6 @@ div.parallex {
    background-color: white;
    display: block;
    text-align: center;
-   align: center;
    min-height: 200;
    max-height: 300;
 }
@@ -106,7 +96,6 @@ div.blog {
    display: inline;
    float: right;
    text-align: left;
-   align: center;
    padding: 20px;
 }
 
@@ -137,7 +126,6 @@ ul.social {
     padding: 0;
     overflow: auto;
     text-align: center;
-    align: center;
 }
 
 ul li.social {
@@ -198,7 +186,6 @@ div.pagetitle {
   background-color: white;
   min-height: 200px;
   display: block;
-  align: center;
   text-align: left;
   padding: 20px;
 }
@@ -447,6 +434,7 @@ div[class^=responsive] {
 * { box-sizing: border-box; }
 h1{ margin: 0; font-family: Raleway; }
 .contact {
+  user-select: none;
   -webkit-user-select: none; /* Chrome/Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+ */
@@ -473,6 +461,12 @@ h1{ margin: 0; font-family: Raleway; }
   color: green;
   text-shadow: 1px 1px yellow;
 }
+.nowsource:hover {
+  font-weight: 1000;
+  font-weight: bold;
+  color: #95c425;
+  text-shadow: 1px 1px black;
+}
 .nowb {
   font-weight: 1000;
   font-weight: bold;
@@ -488,7 +482,7 @@ h1{ margin: 0; font-family: Raleway; }
 .disp {
   display: inline-block;
   text-align: center;
-  marign: 0 auto;
+  margin: 0 auto;
 }
 
 /* contactForm */
@@ -686,7 +680,7 @@ img.hover-shadow {
   color: black;
   font-weight: bold;
   height: 5px;
-  opacity 1;
+  opacity: 1;
   border-top: 3px solid black;
 }
 
@@ -701,4 +695,156 @@ img.hover-shadow {
 .markersize {
   height: 40px;
   width: 40px;
+}
+
+/* Newsletter Landing Page */
+.centerme {
+  display: block;
+  margin: 0 auto;
+}
+.floatr {
+  float: right;
+}
+.floatl {
+  float: left;
+}
+.mypad50{
+  padding: 50px;
+}
+.mypadtb20{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.mypadtb50{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.mypadlr10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.newsletterheading {
+  height: 150px;
+}
+.infotext {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  h1 {
+    padding: 20px;
+  }
+  h2 {
+    width: 50%;
+    display: block;
+    text-align: center;
+    border-bottom: 4px solid black;
+    line-height: 0.1em;
+    margin: 0 auto;
+  }
+  h2 span {
+    background: white;
+    padding: 0 10px;
+  }
+}
+.invitationtext{
+  text-align: center;
+  color: black;
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+.formarea {
+  h4 {
+    text-align: center;
+  }
+  h4:before,
+  h4:after {
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 20%;
+  }
+  
+  h4:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  
+  h4:after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+  .form-container{
+   display: block;
+   margin: 0 auto;
+   form {
+     padding-top: 50px;
+     padding-bottom: 80px;
+     display: block;
+     margin: 0 auto;
+     width: 80%;
+     input.checking {
+       width: auto !important;
+       margin-left: 1px;
+       margin-top: 9px;
+     }
+     input.check {
+       width: auto !important;
+       margin-left: 12px;
+       margin-top: 10px;
+     }
+     span.checktext {
+       margin-left: 15px;
+     }
+     img {
+       width: 320px;
+       height: auto;
+     }
+   }
+  }
+}
+input.check:not(:checked) ~ label{
+  color: black;
+  font-weight: normal;
+  text-transform: capitalize;
+  opacity: 0.7;
+}
+input.check:checked ~ label{
+  color: green;
+  font-weight: bold;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.popup {
+ transition: 0.5s;
+}
+.popup:hover {
+  transform: scale(1.1);
+}
+
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+/* Logo Section */
+.logosize {
+  position: absolute;
+  top: 5px;
+  width: 200px;
+  height: auto;
+}
+
+.imglogo {
+  background: white;
+  position: absolute;
+  top: 5px;
+  width: 200px;
+  height: auto;
+  border-radius: 15%;
 }

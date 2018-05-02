@@ -20,8 +20,6 @@ Headers:		'Poppins', sans-serif;
     margin-left: .3rem;
     margin-right: .3rem;
 }
-.badge.badge-primary {/*background-color: $color-default;*/
-}
 .big-number {
     padding-bottom: 2rem;
     padding-top: 2rem;
@@ -282,7 +280,6 @@ Headers:		'Poppins', sans-serif;
 .box.box--image.box--image--full-image .box__header {
     height: 100%;
 }
-.box.box--image.box--image--full-image .box__image {}
 .box.box--image.box--image--full-image .box__image:before {
     transition: .3s ease;
     opacity: .7;
@@ -317,7 +314,6 @@ Headers:		'Poppins', sans-serif;
 .box.box--image.box--image--full-image:hover .box__wrapper {
     box-shadow: 0 .4rem 3rem rgba(0,0,0,.5);
 }
-.box.box--image.box--image--full-image:hover .box__image {}
 .box.box--image.box--image--full-image:hover .box__image:before {
     opacity: .9;
 }
@@ -354,8 +350,6 @@ Headers:		'Poppins', sans-serif;
     padding-top: 3rem;
     padding-bottom: 4rem;
 }
-.carousel-gallery .box.box--image {}
-.carousel-gallery .box.box--image.box--image--full-image .box__image {}
 .carousel-gallery .box.box--image.box--image--full-image .box__image:before {
     display: none;
 }
@@ -436,8 +430,6 @@ Headers:		'Poppins', sans-serif;
 /*----------------------------------------------------------------------------------------------------------------------
 -L-
  */
-.list {/* ---Text List--- */
-}
 .list.list--text li {
     margin-bottom: 5rem;
 }
@@ -523,7 +515,6 @@ Headers:		'Poppins', sans-serif;
     opacity: 1;
     transform: scale(1);
 }
-.modal-backdrop {}
 .modal-backdrop.show {
     opacity: .7;
 }
@@ -752,11 +743,9 @@ Headers:		'Poppins', sans-serif;
     font-family: 'fontawesome';
     font-size: 1.6rem;
 }
-.owl-next {}
 .owl-next:before {
     content: "\f054";
 }
-.owl-prev {}
 .owl-prev:before {
     content: "\f053";
 }
@@ -785,8 +774,6 @@ Headers:		'Poppins', sans-serif;
     font-size: 1.4rem;
     padding-bottom: 0;
     margin-bottom: 0;
-}
-.person figure {/*margin-bottom: .1rem;*/
 }
 .prog-bar {
     margin-bottom: 3rem;
@@ -1218,15 +1205,12 @@ textarea.form-control {
 .bg-light {
     background-color: #fff !important;
 }
-.block section {/*margin-bottom: 6rem;*/
-}
 .img-responsive {
     max-width: 100%;
 }
 .d-table-row {
     display: table-row;
 }
-#content [data-parallax="scroll"] .parallax-element {}
 #content [data-parallax="scroll"] .parallax-element.background--image {
     height: 150%;
 }
@@ -1238,8 +1222,6 @@ textarea.form-control {
     background-position-y: 0;
 }
 /*background-image: none !important;*/
-[data-parallax="scroll"] .parallax-element img {/*display: block; width: 100%;*//*position: absolute; bottom: 0;*/
-}
 .pack {
     background-color: #fff;
     box-shadow: 0 .1rem 2rem rgba(0,0,0,.15);
@@ -1520,7 +1502,6 @@ textarea.form-control {
         padding-top: 6rem;
         padding-bottom: 6rem;
     }
-    .box {}
     .box.box--image .box__content {
         padding: 2.5rem;
     }
@@ -1590,7 +1571,6 @@ textarea.form-control {
     .btn {
         padding: 1rem 1.6rem .9rem 1.6rem;
     }
-    .box {}
     .box.box--image .box__content {
         padding: 2rem;
     }
@@ -1622,7 +1602,6 @@ textarea.form-control {
         font-size: 2rem;
         line-height: inherit;
     }
-    .blockquote.blockquote--advanced {}
     .blockquote.blockquote--advanced:before {
         height: 100%;
         width: 100%;

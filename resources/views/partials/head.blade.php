@@ -1,14 +1,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="ThemeStarz">
+    <meta name="description" content="Investment in Doncaster, HMO houses! High yield, excellent prospectives! Doncaster is one of the best areas to invest in HMO houses, constantly growing city with direct access to the motorway. Minimum investment is £170,000 which is fairly low amount for the service received."/>
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700"> 
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.css" type="text/css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="LESS/main.less" type="text/css">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <link href="/Resources/LESS" rel="stylesheet">
     <title>Foot Forward Properties Doncaster</title>
 
 
@@ -39,5 +40,5 @@
 
     <!-- Menu Opacity -->
     <script src="/js/MenuOpacity.js"></script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+ <!--
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>  -->

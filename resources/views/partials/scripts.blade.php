@@ -17,7 +17,6 @@
 <!-- SLICK SLIDER THUMB GALLERY -->
 <script src="/js/slickinthumb.js"></script>
 
-
 <script>
 function myMap() {
   var icon = {
@@ -25,9 +24,9 @@ function myMap() {
     scaledSize: new google.maps.Size(50, 50),
     }
   cord = document.getElementById("cord");
-  var myCenter = new google.maps.LatLng(51.508742,-0.120850);
+  var myCenter = new google.maps.LatLng(53.586707,-1.238251);
   var mapCanvas = document.getElementById("map");
-  var mapOptions = {center: myCenter, zoom: 5};
+  var mapOptions = {center: myCenter, zoom: 10};
   var map = new google.maps.Map(mapCanvas, mapOptions);
   var marker = new google.maps.Marker({
     position:myCenter,
@@ -37,7 +36,7 @@ function myMap() {
   marker.setMap(map);
   google.maps.event.addListener(marker,'click',function() {
     var infowindow = new google.maps.InfoWindow({
-      content:"Foot Forward Properties - We are here to serve you!"
+      content:"The Long Barn, Wakefield Road, Hampole, Doncaster, DN6 7EU"
     });
   infowindow.open(map,marker);
   map.setZoom(16);

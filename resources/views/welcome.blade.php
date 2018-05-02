@@ -11,6 +11,7 @@
         <!--*********************************************************************************************************-->
         <header id="hero">
           @include('partials.nav')
+          @include('partials.header')
         </header>
         <!--end hero-->
 
@@ -60,7 +61,7 @@
 																		    <li>Over 10 million sq ft of available, as well as competitively priced development land</li>
 																		    <li>A skilled, loyal and flexible workforce, already home to big names such as Amazon, BT, Thales, Wabtec, Ikea &amp; Next</li>
 																		</ul>
-																		<strong data-scroll-reveal="enter left and move 10px after 0.1s">Source:</strong> <a href="http://wearedoncaster.co.uk" data-scroll-reveal="enter left and move 10px after 0.1s"><span class="now">WeAreDoncaster</span></a>
+																		<strong data-scroll-reveal="enter left and move 10px after 0.1s">Source:</strong> <a href="http://wearedoncaster.co.uk" data-scroll-reveal="enter left and move 10px after 0.1s"><span class="nowsource">WeAreDoncaster</span></a>
 																	</div>
 																	<div class="text-align-right">
 																	<a href="#contact" class="btn btn-primary btn-framed">Get in touch</a>
@@ -831,21 +832,17 @@
                                         </div>
                                     </div>
                                     <div class="person__description">
-                                        <h5>Jane Doe</h5>
-                                        <figure>
-                                            <label>Phone:</label>
-                                            <div>(123) 456 789 000</div>
-                                        </figure>
-                                        <figure>
-                                            <label>E-mail:</label>
-                                            <div>
-                                                <a href="#">john.doe@example.com</a>
-                                            </div>
-                                        </figure>
-                                        <figure>
-                                            <label>Skype:</label>
-                                            <div>John Doe</div>
-                                        </figure>
+                                            <h5>Steph Arrand</h5>
+                                            <figure>
+                                                <label>Phone:</label>
+                                                <div>01302 245204</div>
+                                            </figure>
+                                            <figure>
+                                                <label>E-mail:</label>
+                                                <div>
+                                                    <a href="mailto:steph@footforwardproperties.co.uk">steph@footforwardproperties.co.uk</a>
+                                                </div>
+                                            </figure>
                                     </div>
                                 </div>
                             </div>

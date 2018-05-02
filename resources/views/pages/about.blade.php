@@ -10,7 +10,8 @@
         <!--************ HERO ***************************************************************************************-->
         <!--*********************************************************************************************************-->
         <header id="hero">
-						@include('partials.nav')
+                        @include('partials.nav')
+                        @include('partials.header')
         </header>
         <!--end hero-->
 
@@ -187,21 +188,17 @@
                                         </div>
                                     </div>
                                     <div class="person__description">
-                                        <h5>Jane Doe</h5>
-                                        <figure>
-                                            <label>Phone:</label>
-                                            <div>(123) 456 789 000</div>
-                                        </figure>
-                                        <figure>
-                                            <label>E-mail:</label>
-                                            <div>
-                                                <a href="#">john.doe@example.com</a>
-                                            </div>
-                                        </figure>
-                                        <figure>
-                                            <label>Skype:</label>
-                                            <div>John Doe</div>
-                                        </figure>
+                                            <h5>Steph Arrand</h5>
+                                            <figure>
+                                                <label>Phone:</label>
+                                                <div>01302 245204</div>
+                                            </figure>
+                                            <figure>
+                                                <label>E-mail:</label>
+                                                <div>
+                                                    <a href="mailto:steph@footforwardproperties.co.uk">steph@footforwardproperties.co.uk</a>
+                                                </div>
+                                            </figure>
                                     </div>
                                 </div>
                             </div>

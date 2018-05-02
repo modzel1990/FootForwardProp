@@ -2117,6 +2117,7 @@ textarea.form-control {
     .navbar-nav .nav-link:hover {
         color: #000;
         opacity: .8;
+        width: 50%;
         letter-spacing: 2px;
         font-size: 10px;
         text-shadow: 32px 8px green;
@@ -2206,4 +2207,23 @@ textarea.form-control {
              -o-filter: grayscale(30%);
                 filter: grayscale(30%);
     }
+    .logosize{
+        position: absolute;
+        margin-top: 20px;
+        right: 10px;
+        width: 100px !important;
+        height: auto;
+      } 
+      .imglogo {
+        background: none !important;
+        position: absolute;
+        margin-top: 20px;
+        right: 10px;
+        width: 100px !important;
+        height: auto;
+        border-radius: 15%;
+      } 
+      .imglogo:hover {
+        background: white !important;
+      } 
 }
