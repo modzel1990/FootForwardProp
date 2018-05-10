@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <a class="navbar-brand" href="#page-top">
-            <div class="logosize"><img class="imglogo" src="/img/Logo FFP.png" alt="Foot Forward Properties" title="Foot Forward Properties"/></div>
+            <div class="logosize"><img class="imglogo" src="/img/Logo FFP(white).png" alt="Foot Forward Properties" title="Foot Forward Properties"/></div>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

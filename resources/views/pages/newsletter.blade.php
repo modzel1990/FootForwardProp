@@ -92,28 +92,28 @@
                                     <h4><span> Select your areas of interest </span></h4>
                                 <div class="form-row mypadtb50">
                                     <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">  
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox1" value="Hotels">
-                                            <label class="form-check-label check" for="inlineCheckbox1"><span class="checktext">Newest Properties</span><br/> <img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="Hotels" alt="Hotels"/></label>                                         
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox1" value="Newest Properties">
+                                            <label class="form-check-label check" for="inlineCheckbox1"><span class="checktext">Newest Properties</span><br/> <img class="img" src="/img/Newsletter/Newest Properties.jpg" title="Newest Properties" alt="Newest Properties"/></label>                                         
                                           </div>
                                           <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox2" value="SPA">
-                                            <label class="form-check-label check" for="inlineCheckbox2"><span class="checktext">Current Deals</span><br/><img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="SPA" alt="SPA"/></label>
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox2" value="Current Deals">
+                                            <label class="form-check-label check" for="inlineCheckbox2"><span class="checktext">Current Deals</span><br/><img class="img" src="/img/Newsletter/Current Deals.jpg" title="Current Deals" alt="Current Deals"/></label>
                                           </div>
                                           <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">                                             
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox3" value="Golf">
-                                            <label class="form-check-label check" for="inlineCheckbox3"><span class="checktext">Foot Forward Blog</span><br/><img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="Golf" alt="Golf"/></label>
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox3" value="Foot Forward Blog">
+                                            <label class="form-check-label check" for="inlineCheckbox3"><span class="checktext">Foot Forward Blog</span><br/><img class="img" src="/img/Newsletter/Foot Forward Blog.jpg" title="Foot Forward Blog" alt="Foot Forward Blog"/></label>
                                           </div>
                                           <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">                                              
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox4" value="Food">
-                                            <label class="form-check-label check" for="inlineCheckbox4"><span class="checktext">Ways of investing</span><br/> <img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="Food" alt="Food"/></label>
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox4" value="Ways of investing">
+                                            <label class="form-check-label check" for="inlineCheckbox4"><span class="checktext">Ways of investing</span><br/> <img class="img" src="/img/Newsletter/Ways to invest.jpg" title="Ways of investing" alt="Ways of investing"/></label>
                                           </div>
                                           <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">                                               
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox5" value="Weddings">
-                                            <label class="form-check-label check" for="inlineCheckbox5"><span class="checktext">Ways to buy properties</span><br/><img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="Weddings" alt="Weddings"/></label>
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox5" value="Ways to buy properties">
+                                            <label class="form-check-label check" for="inlineCheckbox5"><span class="checktext">Ways to buy properties</span><br/><img class="img" src="/img/Newsletter/Ways to buy properties.jpg" title="Ways to buy properties" alt="Ways to buy properties"/></label>
                                           </div>
                                           <div class="form-check form-check-inline mypadtb20 mypadlr10 popup">                                               
-                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox6" value="Business">
-                                            <label class="form-check-label check" for="inlineCheckbox6"><span class="checktext">Upcoming Areas</span><br/><img class="img" src="https://www.telegraph.co.uk/content/dam/news/2017/01/26/pandq_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450" title="Business" alt="Business"/></label>
+                                            <input class="form-check-input check" type="checkbox" id="inlineCheckbox6" value="Upcoming Areas">
+                                            <label class="form-check-label check" for="inlineCheckbox6"><span class="checktext">Upcoming Areas</span><br/><img class="img" src="/img/Newsletter/Upcoming Areas.jpg" title="Upcoming Areas" alt="Upcoming Areas"/></label>
                                           </div>
                                         </div>
 

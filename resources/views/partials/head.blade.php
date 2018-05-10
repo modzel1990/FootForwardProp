@@ -40,5 +40,7 @@
 
     <!-- Menu Opacity -->
     <script src="/js/MenuOpacity.js"></script>
- <!--
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>  -->
+    <!-- SCROLL LOGO -->
+  <!--  <script src="/js/scrolllogo.js"></script> -->
+    <!-- LOGO HOVER -->
+    <script src="/js/logohover.js"></script>
